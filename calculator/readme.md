@@ -1,1 +1,1 @@
-
+This is a simple calculator application using HTML, CSS (Bootstrap for UI), and JavaScript. The calculator allows users to input two numbers and select an arithmetic operation from a dropdown menu. Upon clicking the "Calculate" button, the calculator displays the result of the operation.
